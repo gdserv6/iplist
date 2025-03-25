@@ -1,0 +1,14 @@
+*.keydelivery.mediaservices.windows.net
+*.lync.com
+*.skype.com
+*.streaming.mediaservices.windows.net
+*.teams.cloud.microsoft
+*.teams.microsoft.com
+*.users.storage.live.com
+adl.windows.com
+aka.ms
+compass-ssl.microsoft.com
+join.secure.skypeassets.com
+mlccdnprod.azureedge.net
+teams.cloud.microsoft
+teams.microsoft.com
