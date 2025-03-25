@@ -1,0 +1,8 @@
+*.delivery.mp.microsoft.com
+*.dl.delivery.mp.microsoft.com
+*.download.windowsupdate.com
+*.prod.do.dsp.mp.microsoft.com
+*.update.microsoft.com
+*.windowsupdate.com
+emdl.ws.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
