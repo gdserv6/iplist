@@ -1,9 +1,1 @@
-*.mail.protection.outlook.com
-*.mx.microsoft
-*.outlook.com
-*.protection.outlook.com
-autodiscover.*.onmicrosoft.com
-outlook.cloud.microsoft
-outlook.office.com
-outlook.office365.com
-smtp.office365.com
+Ki5tYWlsLnByb3RlY3Rpb24ub3V0bG9vay5jb20NCioubXgubWljcm9zb2Z0DQoqLm91dGxvb2suY29tDQoqLnByb3RlY3Rpb24ub3V0bG9vay5jb20NCmF1dG9kaXNjb3Zlci4qLm9ubWljcm9zb2Z0LmNvbQ0Kb3V0bG9vay5jbG91ZC5taWNyb3NvZnQNCm91dGxvb2sub2ZmaWNlLmNvbQ0Kb3V0bG9vay5vZmZpY2UzNjUuY29tDQpzbXRwLm9mZmljZTM2NS5jb20NCg==
