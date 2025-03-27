@@ -1,1 +1,14 @@
-Ki5rZXlkZWxpdmVyeS5tZWRpYXNlcnZpY2VzLndpbmRvd3MubmV0DQoqLmx5bmMuY29tDQoqLnNreXBlLmNvbQ0KKi5zdHJlYW1pbmcubWVkaWFzZXJ2aWNlcy53aW5kb3dzLm5ldA0KKi50ZWFtcy5jbG91ZC5taWNyb3NvZnQNCioudGVhbXMubWljcm9zb2Z0LmNvbQ0KKi51c2Vycy5zdG9yYWdlLmxpdmUuY29tDQphZGwud2luZG93cy5jb20NCmFrYS5tcw0KY29tcGFzcy1zc2wubWljcm9zb2Z0LmNvbQ0Kam9pbi5zZWN1cmUuc2t5cGVhc3NldHMuY29tDQptbGNjZG5wcm9kLmF6dXJlZWRnZS5uZXQNCnRlYW1zLmNsb3VkLm1pY3Jvc29mdA0KdGVhbXMubWljcm9zb2Z0LmNvbQ0K
+*.keydelivery.mediaservices.windows.net
+*.lync.com
+*.skype.com
+*.streaming.mediaservices.windows.net
+*.teams.cloud.microsoft
+*.teams.microsoft.com
+*.users.storage.live.com
+adl.windows.com
+aka.ms
+compass-ssl.microsoft.com
+join.secure.skypeassets.com
+mlccdnprod.azureedge.net
+teams.cloud.microsoft
+teams.microsoft.com

@@ -1,1 +1,14 @@
-Ki5zZWFyY2gucHJvZHVjdGlvbi5hcGFjLnRyYWZmaWNtYW5hZ2VyLm5ldA0KKi5zZWFyY2gucHJvZHVjdGlvbi5lbWVhLnRyYWZmaWNtYW5hZ2VyLm5ldA0KKi5zZWFyY2gucHJvZHVjdGlvbi51cy50cmFmZmljbWFuYWdlci5uZXQNCiouc2hhcmVwb2ludC5jb20NCiouc2hhcmVwb2ludG9ubGluZS5jb20NCiouc3ZjLm1zDQoqLnducy53aW5kb3dzLmNvbQ0KYWRtaW4ub25lZHJpdmUuY29tDQpnLmxpdmUuY29tDQpvZmZpY2VjbGllbnQubWljcm9zb2Z0LmNvbQ0Kb25lY2xpZW50LnNmeC5tcw0Kc3BvcHJvZC1hLmFrYW1haWhkLm5ldA0Kc3N3LmxpdmUuY29tDQpzdG9yYWdlLmxpdmUuY29tDQo=
+*.search.production.apac.trafficmanager.net
+*.search.production.emea.trafficmanager.net
+*.search.production.us.trafficmanager.net
+*.sharepoint.com
+*.sharepointonline.com
+*.svc.ms
+*.wns.windows.com
+admin.onedrive.com
+g.live.com
+officeclient.microsoft.com
+oneclient.sfx.ms
+spoprod-a.akamaihd.net
+ssw.live.com
+storage.live.com
