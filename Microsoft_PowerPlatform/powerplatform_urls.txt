@@ -51,6 +51,7 @@
 *.powerbi.com
 *.powerpages.microsoft.com
 *.powerplatform.com
+*.powerplatformusercontent.com
 *.powerquery.microsoft.com
 *.powerva.microsoft.com
 *.s-microsoft.com
