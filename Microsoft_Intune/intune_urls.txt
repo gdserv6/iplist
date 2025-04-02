@@ -51,8 +51,6 @@ contentauthassetscdn-prod.azureedge.net
 contentauthassetscdn-prodeur.azureedge.net
 contentauthrafcontentcdn-prod.azureedge.net
 contentauthrafcontentcdn-prodeur.azureedge.net
-devicelistenerprod.eudb.microsoft.com
-devicelistenerprod.microsoft.com
 displaycatalog.mp.microsoft.com
 ecs.com
 edge.microsoft.com
@@ -110,7 +108,6 @@ lgmsapewus2.blob.core.windows.net
 licensing.mp.microsoft.com
 login.live.com
 login.microsoftonline.com
-login.windows.net
 macsidecar.manage.microsoft.com
 macsidecarap.manage.microsoft.com
 macsidecareu.manage.microsoft.com
