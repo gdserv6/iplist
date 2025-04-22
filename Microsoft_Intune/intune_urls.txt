@@ -53,6 +53,7 @@ contentauthrafcontentcdn-prod.azureedge.net
 contentauthrafcontentcdn-prodeur.azureedge.net
 displaycatalog.mp.microsoft.com
 ecs.com
+ecs.office.com
 edge.microsoft.com
 edge.skype.com
 ekcert.spserv.microsoft.com
