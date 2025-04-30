@@ -150,7 +150,6 @@ security.microsoft.com
 shellprod.msocdn.com
 signup.live.com
 staffhub.ms
-staffhubweb.azureedge.net
 support.microsoft.com
 sway.com
 technet.microsoft.com
