@@ -5,6 +5,7 @@
 *.api.bap.partner.microsoftonline.cn
 *.api.gov.powerplatform.microsoft.us
 *.api.high.powerplatform.microsoft.us
+*.api.powerautomate.cn
 *.api.powerplatform.com
 *.api.powerplatform.partner.microsoftonline.cn
 *.api.powerplatformusercontent.com
