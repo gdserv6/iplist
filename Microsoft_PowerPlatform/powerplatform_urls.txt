@@ -36,6 +36,7 @@
 *.gov.api.bap.microsoft.us
 *.high.api.bap.microsoft.us
 *.hubblecontent.osi.office.net
+*.logic.azure.cn
 *.logic.azure.com
 *.microsoftcloud.com
 *.microsoftdynamics.us
